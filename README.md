@@ -1,8 +1,11 @@
 # AegisAI
 
 # AegisAI — NextGen Autonomous Cyber Defense & Awareness Intelligence Platform
-<img width="1451" height="755" alt="image" src="https://github.com/user-attachments/assets/495def5b-4561-4a97-b7dd-792066acf3b7" />
-<img width="1696" height="903" alt="image" src="https://github.com/user-attachments/assets/82d7dafa-d0ea-4c05-aee8-264a8498c032" />
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/495def5b-4561-4a97-b7dd-792066acf3b7" />
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/82d7dafa-d0ea-4c05-aee8-264a8498c032" />
+
+
+
 
 
 
