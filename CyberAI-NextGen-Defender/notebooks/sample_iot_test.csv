@@ -1,0 +1,5 @@
+device_id,signal_strength,packet_loss,latency
+dev1,72,0.0,23
+dev2,12,8.5,540
+dev3,80,0.0,20
+dev4,10,12.0,1000

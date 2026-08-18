@@ -1,0 +1,11 @@
+{
+  "model": "spam_xgboost",
+  "model_file_pkl": "models/spam_xgboost_model.pkl",
+  "model_file_json": "models/spam_xgboost_model.json",
+  "vectorizer": "models/spam_tfidf_vectorizer.pkl",
+  "features": "tfidf(max_features=3000)",
+  "label_map": {
+    "ham": 0,
+    "spam": 1
+  }
+}

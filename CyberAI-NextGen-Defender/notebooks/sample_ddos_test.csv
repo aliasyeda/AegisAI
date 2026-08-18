@@ -1,0 +1,5 @@
+packet_size,flow_duration,src_bytes,dst_bytes
+60,0.0001,0,0
+1500,120.0,500000,120000
+60,0.0002,0,0
+64,0.001,12,8

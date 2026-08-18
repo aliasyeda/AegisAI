@@ -1,0 +1,4 @@
+timestamp,source_ip,requests_sec,attack_type,mitigation
+2024-01-15 20:15:30,192.168.1.100,150,None,NONE
+2024-01-15 21:23:45,203.0.113.25,2500,Unusual,REVIEW
+2024-01-15 22:15:30,192.0.2.150,15000,Attack,BLOCK

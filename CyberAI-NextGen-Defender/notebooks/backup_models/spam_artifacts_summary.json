@@ -1,0 +1,87 @@
+{
+  "model": "spam",
+  "num_features": 3000,
+  "top_features": [
+    {
+      "feature": "call",
+      "shap_mean_abs": 1.9361499547958374
+    },
+    {
+      "feature": "txt",
+      "shap_mean_abs": 1.012794017791748
+    },
+    {
+      "feature": "now",
+      "shap_mean_abs": 0.48777395486831665
+    },
+    {
+      "feature": "free",
+      "shap_mean_abs": 0.45764803886413574
+    },
+    {
+      "feature": "to",
+      "shap_mean_abs": 0.4483002722263336
+    },
+    {
+      "feature": "claim",
+      "shap_mean_abs": 0.39149582386016846
+    },
+    {
+      "feature": "text",
+      "shap_mean_abs": 0.38894885778427124
+    },
+    {
+      "feature": "your",
+      "shap_mean_abs": 0.36348697543144226
+    },
+    {
+      "feature": "from",
+      "shap_mean_abs": 0.30181577801704407
+    },
+    {
+      "feature": "stop",
+      "shap_mean_abs": 0.29864636063575745
+    },
+    {
+      "feature": "or",
+      "shap_mean_abs": 0.2878015637397766
+    },
+    {
+      "feature": "me",
+      "shap_mean_abs": 0.2829605042934418
+    },
+    {
+      "feature": "win",
+      "shap_mean_abs": 0.2813669741153717
+    },
+    {
+      "feature": "reply",
+      "shap_mean_abs": 0.2793745994567871
+    },
+    {
+      "feature": "you",
+      "shap_mean_abs": 0.21644710004329681
+    },
+    {
+      "feature": "send",
+      "shap_mean_abs": 0.19173695147037506
+    },
+    {
+      "feature": "mobile",
+      "shap_mean_abs": 0.1867315173149109
+    },
+    {
+      "feature": "sms",
+      "shap_mean_abs": 0.18393731117248535
+    },
+    {
+      "feature": "out",
+      "shap_mean_abs": 0.18127596378326416
+    },
+    {
+      "feature": "my",
+      "shap_mean_abs": 0.17109957337379456
+    }
+  ],
+  "n_quarantined": 621
+}

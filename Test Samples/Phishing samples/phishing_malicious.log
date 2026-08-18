@@ -1,0 +1,4 @@
+2024-01-15 16:00:00 INFO phishing detection system started
+2024-01-15 16:15:30 ALERT phishing attack: MALICIOUS - free gift you won
+2024-01-15 16:30:45 ALERT phishing blocked: CRITICAL - attack prevented
+2024-01-15 16:45:20 ALERT phishing mitigation: SUCCESSFUL - system secured

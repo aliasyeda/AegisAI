@@ -1,0 +1,4 @@
+2024-01-15 12:00:00 INFO phishing detection system started
+2024-01-15 12:15:30 WARNING phishing alert: SUSPICIOUS - special offer detected
+2024-01-15 12:30:45 WARNING phishing scan: QUARANTINED - requires manual review
+2024-01-15 12:45:20 WARNING phishing analysis: MEDIUM RISK - unusual pattern

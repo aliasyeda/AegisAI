@@ -1,0 +1,4 @@
+index,predicted_label,prediction_prob,defense_action,text,top_contributing_features
+0,1,0.7313333749771118,quarantine,"{'packet_count': 5, 'duration': 2, 'source_ips': 1}",
+1,1,0.9998732805252075,block_ip,"{'packet_count': 50, 'duration': 15, 'source_ips': 5}",
+2,1,0.9998660087585449,block_ip,"{'packet_count': 5000, 'duration': 600, 'source_ips': 200}",

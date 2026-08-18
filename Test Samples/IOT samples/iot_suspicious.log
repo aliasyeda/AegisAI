@@ -1,0 +1,4 @@
+2024-01-15 12:00:00 INFO iot detection system started
+2024-01-15 12:15:30 WARNING iot alert: SUSPICIOUS - special offer detected
+2024-01-15 12:30:45 WARNING iot scan: QUARANTINED - requires manual review
+2024-01-15 12:45:20 WARNING iot analysis: MEDIUM RISK - unusual pattern

@@ -1,0 +1,8 @@
+IoT Device Status: Secure and Authenticated
+Device: IoT_Camera_Office_001
+IP: 192.168.1.100
+Status: AUTHENTICATED - Secure connection
+Firmware: v2.1.5 (Latest)
+Last Update: 2024-01-14
+Security: STRONG - Encrypted communication
+Action: ALLOW - Normal operation

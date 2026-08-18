@@ -1,0 +1,8 @@
+Network Traffic CRITICAL - DDoS Attack
+Time: 2024-01-15 18:00-18:15
+Total Requests: 1,500,000
+Peak Load: 15,000 requests/second
+Status: MALICIOUS - Confirmed DDoS attack
+Source IPs: 192.0.2.150, 192.0.2.151, 192.0.2.152 (Botnet)
+Action: BLOCKED - Attack mitigated
+Impact: Service maintained with 99.9% uptime

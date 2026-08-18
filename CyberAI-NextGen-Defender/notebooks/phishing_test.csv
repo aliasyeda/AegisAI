@@ -1,0 +1,5 @@
+text,__prob__,__action__
+"Update your password to avoid suspension: http://login-security.example",0.96,block
+"Your bank account is locked. Verify now",0.78,quarantine
+"Security tip: enable 2FA on your account",0.58,monitor
+"This is a team newsletter about Q3 goals",0.15,allow

@@ -1,0 +1,3 @@
+2024-01-15 22:15:30 ALERT UDP amplification attack detected - 15,000 requests/sec
+2024-01-15 22:16:45 CRITICAL Botnet participation detected - 500+ compromised devices
+2024-01-15 22:17:20 WARNING Traffic spike: 2,500 requests/sec from multiple IP ranges

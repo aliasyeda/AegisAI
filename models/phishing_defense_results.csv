@@ -1,0 +1,2 @@
+index,predicted_label,prediction_prob,defense_action,text,top_contributing_features
+0,0,0.15366841132775141,allow,"{'text': ""Subject: 🎉 CONGRATULATIONS! You WON $500 FREE Gift Card!\nFrom: freegifts@promo-mail.com\nTo: winner@email.com\n\nCONGRATULATIONS! 🎊\n\nYou've been selected as our lucky winner to receive a $500 Amazon Gift Card absolutely FREE! This is not a joke - you've really WON!\n\nClaim your prize immediately by clicking here:\nhttp://malicious-phishing-site.com/claim-gift\n\n⚠️ HURRY! Offer expires in 2 hours! Don't miss your chance!\n""}",

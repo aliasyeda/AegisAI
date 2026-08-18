@@ -1,0 +1,5 @@
+sensor_rate,port_changes,firmware_flag
+10,0,0
+500,12,1
+200,5,1
+40,1,0

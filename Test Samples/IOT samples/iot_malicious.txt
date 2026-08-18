@@ -1,0 +1,8 @@
+IoT Security CRITICAL: Malicious Attack
+Device: IoT_Camera_Warehouse_005
+IP: 192.168.1.205
+Status: MALICIOUS - Brute force attack detected
+Activity: 1,247 failed login attempts in 5 minutes
+Source: External IP 94.102.51.55
+Action: BLOCKED - Attack prevented
+Impact: No data breach - System secured

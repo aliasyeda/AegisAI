@@ -1,0 +1,4 @@
+timestamp,device_id,event_type,risk_level,action_taken
+2024-01-15 23:15:30,IoT_Cam_001,Authenticated,LOW,ALLOW
+2024-01-16 00:23:45,Smart_Thermo_003,Default_Password,MEDIUM,QUARANTINE
+2024-01-16 01:15:30,IoT_Camera_005,Malicious_Attack,HIGH,BLOCK

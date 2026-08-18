@@ -1,0 +1,12 @@
+Subject: URGENT: Your Account Needs Verification NOW!
+From: security-alert@verify-account.com
+To: user@email.com
+
+URGENT SECURITY NOTICE!
+
+We've detected suspicious activity on your account. Immediate verification required to prevent suspension.
+
+Click here to verify your identity:
+http://suspicious-verification-site.com/secure-login
+
+This must be completed within 1 hour or your account will be suspended.

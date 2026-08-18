@@ -1,0 +1,12 @@
+Subject: 🔴 ACCOUNT SUSPENDED - Immediate Action Required!
+From: no-reply@bank-security.com
+To: customer@email.com
+
+EMERGENCY ALERT! 🚨
+
+Your bank account has been SUSPENDED due to suspicious login attempts from foreign location.
+
+IMMEDIATE ACTION REQUIRED: Verify your identity now to restore access:
+http://malicious-phishing-bank.com/restore-account
+
+Failure to verify within 30 minutes will result in permanent account closure.

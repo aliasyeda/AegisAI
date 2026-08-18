@@ -1,0 +1,4 @@
+timestamp,sender,subject,risk_score,action
+2024-01-15 14:15:30,security@bank.com,official statement secure,18,ALLOW
+2024-01-15 15:23:45,alert@verify.com,urgent verification required,72,QUARANTINE
+2024-01-15 16:15:30,phish@attack.com,account suspended malicious,94,BLOCK

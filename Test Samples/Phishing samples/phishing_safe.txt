@@ -1,0 +1,12 @@
+Subject: Official Security Update - Required Reading
+From: security@yourbank.com
+To: all-employees@company.com
+
+SECURITY BULLETIN: Official Update
+
+This is an official security communication from the Information Security Department. Please review the attached security policy updates.
+
+All employees must complete the new security awareness training by end of month.
+
+This is a legitimate company communication.
+Sender verified: security@yourbank.com

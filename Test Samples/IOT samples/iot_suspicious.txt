@@ -1,0 +1,8 @@
+IoT Security Alert: Default Credentials
+Device: Smart_Thermostat_Floor3_003
+IP: 192.168.1.203
+Status: WARNING - Default password detected
+Firmware: v1.0.2 (Outdated)
+Security: WEAK - Using factory credentials
+Action: QUARANTINE - Requires password change
+Risk: MEDIUM - Potential unauthorized access

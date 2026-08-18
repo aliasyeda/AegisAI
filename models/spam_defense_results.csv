@@ -1,0 +1,5 @@
+index,predicted_label,prediction_prob,defense_action,text,top_contributing_features
+0,0,0.22567011017933206,allow,FREE MONEY NOW!!! WIN $1000000,
+1,1,0.5835360667258891,monitor,"Hello, how are you doing today?",
+2,1,0.7382738832658684,quarantine,URGENT: Your account will be closed,
+3,1,0.8456479597109419,quarantine,Click here for exclusive offer,

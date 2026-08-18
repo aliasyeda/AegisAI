@@ -1,0 +1,5 @@
+text,__prob__,__action__
+"Hey, let's catch up tomorrow",0.12,allow
+"Free iPhone!!! Click here to claim now",0.98,block
+"Special offer just for you, limited time",0.72,quarantine
+"Reminder: your package will arrive today",0.55,monitor

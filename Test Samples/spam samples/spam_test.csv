@@ -1,0 +1,4 @@
+timestamp,sender,subject,risk_score,action
+2024-01-15 09:15:30,john@company.com,business report official,15,ALLOW
+2024-01-15 10:23:45,promo@shop.com,special offer discount,65,QUARANTINE
+2024-01-15 11:15:30,spam@free.com,free gift card you won,92,BLOCK

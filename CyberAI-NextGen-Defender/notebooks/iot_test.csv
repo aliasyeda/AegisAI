@@ -1,0 +1,5 @@
+sensor_rate,port_changes,firmware_flag,__prob__,__action__
+10,0,0,0.20,allow
+500,12,1,0.96,block
+200,5,1,0.85,quarantine
+40,1,0,0.61,monitor

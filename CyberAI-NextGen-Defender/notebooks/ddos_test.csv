@@ -1,0 +1,5 @@
+pps,syn_rate,unique_src_ips,__prob__,__action__
+200,1,5,0.20,allow
+10000,5000,50,0.98,block
+3000,1100,40,0.74,quarantine
+900,100,15,0.60,monitor
