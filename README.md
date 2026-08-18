@@ -12,7 +12,7 @@
 
 
 
---
+---
 AegisAI is an AI-powered cybersecurity platform designed to detect, analyze, explain, and respond to multiple categories of cyber threats through a unified system.
 
 The project combines machine learning, explainable AI, confidence-based decision making, automated defense actions, SOC-style monitoring, threat logging, attack simulations, and cybersecurity awareness training in one platform.
